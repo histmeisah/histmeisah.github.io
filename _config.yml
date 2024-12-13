@@ -21,10 +21,10 @@ repository               : "histmeisah/histmeisah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Weiyu Ma"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "StarCraft2 player and AI researcher"
   location         : "BeiJing, China"
   employer         : "University of Chinese Academy of Sciences"
   uri              : "http://marl.ia.ac.cn/people/maweiyu.html"
