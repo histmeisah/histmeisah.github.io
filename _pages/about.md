@@ -36,3 +36,20 @@ My research goal is to develop human-like and human-friendly game AI systems. I 
 - Building AI that enhances rather than replaces human gaming experiences
 
 I'm excited about the potential of combining large language models, world models, and reinforcement learning to create more intuitive and engaging game AI systems. Through my research, I hope to bridge the gap between competitive gaming strategies and artificial intelligence development.
+
+Future Plan
+------
+I am actively seeking opportunities to continue my research journey:
+- **PhD Positions**: I am looking for PhD positions starting Fall 2025, with a focus on Game AI, Multi-agent Systems, and World Models
+- **Research Positions or intern**: Open to research opportunities in Game AI and Machine Learning
+  
+
+My ideal research environment would allow me to:
+- Pursue advanced research in human-like game AI systems
+- Combine competitive gaming insights with cutting-edge AI techniques
+- Collaborate with researchers who share my passion for creating more intuitive and engaging AI
+
+Feel free to contact me if you have any opportunities or would like to discuss potential collaboration:
+- Email: sc2meisah@gmail.com
+- [Google Scholar](https://scholar.google.com/citations?user=_waWSjEAAAAJ)
+- [GitHub](https://github.com/histmeisah)
