@@ -25,6 +25,13 @@ Research Experience
     * Implemented VLM (GPT4o) integration for StarCraft II gameplay
     * Developed real-time game state understanding approaches
 
+* May 2024-Present: Research Collaboration
+  * Tencent AI Lab
+  * Projects:
+    * Leading development of large-scale LLM-RL models
+    * Built StarCraft II community dataset
+    * Applied adapter tuning techniques for DI-star
+    * Developed RL and language model integration approaches
 
 
 * June 2023-Present: Research Assistant
